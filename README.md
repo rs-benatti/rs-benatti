@@ -1,6 +1,8 @@
 # Hi, I am Rafael!
 
-<iframe src="https://giphy.com/embed/xUOxfoZZhw8HkYWbzG" width="480" height="415" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-code-python-xUOxfoZZhw8HkYWbzG"></a></p>
+<div align="center">  
+  <img align="center" alt="GIF" src="https://github.com/rs-benatti/rs-benatti/blob/main/python.gif" width="200" height="200" />
+</div>
 
 ## 🌱 What I'm Currently Learning
 
