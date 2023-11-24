@@ -9,17 +9,18 @@ Hello!! I am currently doing the last year of my master in computer science with
 - Advanced GAN topics: cycle GANs, conditional GANs;
 - Transformers;
 - Advanced Mathematics for Machine Learning;
+- Reinforcement learning;
 - Plenty deep learning algorithms :)
-
 
 <div> 
   <a href = "mailto:rafael.benatti@estudante.cear.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/rafaelsbenatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Alt text](image.png)
+
 
 ## 🏂🏄⚽🏐 My hobbies
+![Alt text](image.png)
 - I love doing almost every sport you can imagine!
 - I also really enjoy cooking special meals
 - Last but not least, sometimes I like studying languages
