@@ -19,7 +19,6 @@ Hello!! I am currently doing the last year of my master in computer science with
     <tr>
       <td align="center">
         <a href="https://github.com/rs-benatti/CarRacing_Deep_Q_Network">
-          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=CarRacing_Deep_Q_Network)](https://github.com/rs-benatti/CarRacing_Deep_Q_Network)
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=CarRacing_Deep_Q_Network" alt="CarRacing_Deep_Q_Network " />
           <br />
           CarRacing_Deep_Q_Network
