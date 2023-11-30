@@ -5,14 +5,14 @@ Hello!! I am currently doing the last year of my master in computer science with
   <img align="center" alt="GIF" src="https://github.com/rs-benatti/rs-benatti/blob/main/python.gif" width="200" height="200" />
 </div>
 
-## 🌱 What I'm Currently Learning
+## What I'm Currently Learning 🌱
 - Advanced GAN topics: cycle GANs, conditional GANs;
 - Transformers;
 - Advanced Mathematics for Machine Learning;
 - Reinforcement learning;
 - Plenty deep learning algorithms :)
 
-## Some of my projects
+## Some of my projects ☀️
 
 <table>
   <tbody>
@@ -25,8 +25,8 @@ Hello!! I am currently doing the last year of my master in computer science with
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/thalisrocha/app-vlc-receiver">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=app-vlc-receiver" alt="app-vlc-receiver" />
+        <a href="https://github.com/rs-benatti/app-vlc-receiver">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=app-vlc-receiver" alt="app-vlc-receiver" />
           <br />
           app-vlc-receiver
         </a>
@@ -34,8 +34,8 @@ Hello!! I am currently doing the last year of my master in computer science with
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/thalisrocha/Kaggle-cmri-classification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Kaggle-cmri-classification" alt="Kaggle-cmri-classification" />
+        <a href="https://github.com/rs-benatti/Kaggle-cmri-classification">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Kaggle-cmri-classification" alt="Kaggle-cmri-classification" />
           <br />
           Kaggle-cmri-classification
         </a>
@@ -50,8 +50,8 @@ Hello!! I am currently doing the last year of my master in computer science with
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/thalisrocha/Multimedia-set-top-box">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thalisrocha&repo=Multimedia-set-top-box" alt="Multimedia-set-top-box" />
+        <a href="https://github.com/rs-benatti/Multimedia-set-top-box">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Multimedia-set-top-box" alt="Multimedia-set-top-box" />
           <br />
           Multimedia-set-top-box
         </a>
