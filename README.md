@@ -21,7 +21,7 @@ Hello!! I am currently doing the last year of my master in computer science with
 
 ## 🏂🏄⚽🏐 My hobbies
 <div align="center">  
-  <img src="image.png" alt="hobbies" width="150"/>
+  <img src="image.png" alt="hobbies" width="200"/>
 </div>
 - I love doing almost every sport you can imagine!
 - I also really enjoy cooking special meals
