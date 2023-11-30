@@ -67,16 +67,6 @@ Hello!! I am currently doing the last year of my master in computer science with
   </tbody>
 </table>
 
-### Deep Learning
-- Coupled CNNs architecture for hyperspectral images super resolution
-- Latent Reweighting in GANs
-- Generative Neural Samplers using Variational Divergence Minimization
-- Deep Matrix Factorization for recommendation system
-- Adversarial Attack and Adversarial Defense on CNNs
-
-### Computer vision
-- 
-
 <div> 
   <a href = "mailto:rafael.benatti@estudante.cear.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/rafaelsbenatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
