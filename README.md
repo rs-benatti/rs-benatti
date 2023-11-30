@@ -25,8 +25,8 @@ Hello!! I am currently doing the last year of my master in computer science with
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/rs-benatti/app-vlc-receiver">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=app-vlc-receiver" alt="app-vlc-receiver" />
+        <a href="=https://github.com/rs-benatti/Latent-Reweighting-and-f-GANs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Latent-Reweighting-and-f-GANs" alt="Latent-Reweighting-and-f-GANs" />
           <br />
           app-vlc-receiver
         </a>
