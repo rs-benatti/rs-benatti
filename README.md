@@ -28,7 +28,7 @@ Hello!! I am currently doing the last year of my master in computer science with
         <a href="=https://github.com/rs-benatti/Latent-Reweighting-and-f-GANs">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Latent-Reweighting-and-f-GANs" alt="Latent-Reweighting-and-f-GANs" />
           <br />
-          app-vlc-receiver
+          Latent Reweighting and f-GANs
         </a>
       </td>
     </tr>
@@ -37,14 +37,14 @@ Hello!! I am currently doing the last year of my master in computer science with
         <a href="https://github.com/rs-benatti/Heart_Disease_Prediction">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Heart_Disease_Prediction" alt="Heart_Disease_Prediction" />
           <br />
-          Kaggle-cmri-classification
+          Heart Disease Predition
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/V-kr0pt/Hyperspectral_image_super_resolution">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=V-kr0pt&repo=Hyperspectral_image_super_resolution" alt="Hyperspectral_image_super_resolution" />
           <br />
-          Hyperspectral_image_super_resolution
+          Hyperspectral image super resolution
         </a>
       </td>
     </tr>
