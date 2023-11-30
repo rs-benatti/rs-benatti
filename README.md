@@ -62,10 +62,11 @@ Hello!! I am currently doing the last year of my master in computer science with
 </table>
 
 ### Deep Learning
-- Deep Learning architecture for hyperspectral images super resolution
+- Coupled CNNs architecture for hyperspectral images super resolution
 - Latent Reweighting in GANs
 - Generative Neural Samplers using Variational Divergence Minimization
 - Deep Matrix Factorization for recommendation system
+- Adversarial Attack and Adversarial Defense on CNNs
 
 ### Computer vision
 - 
