@@ -56,7 +56,13 @@ Hello!! I am currently doing the last year of my master in computer science with
           Deep Matrix Factorization Code
         </a>
       </td>
-      <td></td> <!-- Empty cell to maintain the layout -->
+      <td align="center">
+        <a href="https://github.com/rs-benatti/Study-repos-ML-DL-SD">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Study-repos-ML-DL-SD" alt="Study-repos-ML-DL-SD" />
+          <br />
+          Some codes I used to study DL, ML and Data Science topics
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
