@@ -50,10 +50,10 @@ Hello!! I am currently doing the last year of my master in computer science with
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/rs-benatti/Multimedia-set-top-box">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Multimedia-set-top-box" alt="Multimedia-set-top-box" />
+        <a href="https://github.com/rs-benatti/Deep-Matrix-Factorization">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Deep-Matrix-Factorization" alt="Deep-Matrix-Factorization" />
           <br />
-          Multimedia-set-top-box
+          Deep Matrix Factorization Code
         </a>
       </td>
       <td></td> <!-- Empty cell to maintain the layout -->
