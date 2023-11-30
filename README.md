@@ -34,8 +34,8 @@ Hello!! I am currently doing the last year of my master in computer science with
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/rs-benatti/Kaggle-cmri-classification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Kaggle-cmri-classification" alt="Kaggle-cmri-classification" />
+        <a href="https://github.com/rs-benatti/Heart_Disease_Prediction">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rs-benatti&repo=Heart_Disease_Prediction" alt="Heart_Disease_Prediction" />
           <br />
           Kaggle-cmri-classification
         </a>
